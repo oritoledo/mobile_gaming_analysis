@@ -16,7 +16,7 @@ The company didn't mentioned what is the price gap between the groups- after qui
   
 
 Regarding the price differences, it is not too surprising to find that the majority of users who purchased the package are from group A.
-But there is a problem! It seems like we asked the wrong question here- rather asking which package is the most popular among users, we should ask ourselves which package price would be the most profitable to the company.
+But there is a problem! It seems like we asked the wrong question here- rather asking which package is the most popular among users, we should ask ourselves which package price would justify the development of the new package.
 The Product manager said, building the features the new package offers must generate at least $1000 per week in order to be profitable for the company.
 In order to justify this feature, we will need to calculate the necessary purchase rate for each price point.
 
