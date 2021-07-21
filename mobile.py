@@ -129,7 +129,7 @@ p_significancy(pvalueC)
 
 # Print the chosen price group
 if(pvalueA < pvalueB and pvalueA < pvalueC):
-    print("The justified package price is $4.99.");
+    print("The justified package price is $0.99.");
 elif (pvalueB < pvalueA and pvalueB < pvalueC):
     print("The justified price is $1.99.")
 else:
